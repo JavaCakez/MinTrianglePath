@@ -1,0 +1,4 @@
+cat << EOF | java MinTrianglePath
+6
+1 1234567891011121314151617
+EOF
